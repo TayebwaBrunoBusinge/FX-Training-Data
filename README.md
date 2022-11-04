@@ -7,5 +7,5 @@ different timeframes, which is as I said unavailable for the most part.
 
 This repo contains a little ready-to-use data in the different timeframes, but most importantly, it has a number of powerful scripts that make it easy to 
 extract any timeframe data accurately, provided you've been given one-minute timeframe data in csv format. The format in specific should be:
-      [date, time, open, high, low, close, volume, state]
-which is a 2d array containing octuples of the date, time, open price, highest prise reached, lowest price, closing price, (tick)volume within that period and state(whether it closed bullish or bearish).
+      [date, time, open, high, low, close, volume, bullish, bearish, neutral]
+which is a 2d array containing tuples of the date, time, open price, highest prise reached, lowest price, closing price, (tick)volume within that period and state(3 columns representing whether it closed bullish, bearish or neutral).
