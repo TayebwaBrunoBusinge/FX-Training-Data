@@ -1,4 +1,4 @@
-0,date,time,open,p_high,p_low,p_close,volume,st_bullish,st_bearish,st_neutral,ss_asia,ss_europe,ss_newyork
+0,date,time,p_open,p_high,p_low,p_close,volume,st_bullish,st_bearish,st_neutral,ss_asia,ss_europe,ss_newyork
 1,2020.01.02,00:00,1.12117,1.12246,1.11636,1.11717,65332,0,1,0,0,0,0
 2,2020.01.03,00:00,1.11713,1.11799,1.11251,1.11585,77626,0,1,0,0,0,0
 3,2020.01.06,00:00,1.11584,1.12057,1.11572,1.11968,66872,1,0,0,0,0,0

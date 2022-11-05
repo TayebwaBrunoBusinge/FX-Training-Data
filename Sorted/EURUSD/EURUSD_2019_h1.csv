@@ -1,4 +1,4 @@
-0,date,time,open,p_high,p_low,p_close,volume,st_bullish,st_bearish,st_neutral,ss_asia,ss_europe,ss_newyork
+0,date,time,p_open,p_high,p_low,p_close,volume,st_bullish,st_bearish,st_neutral,ss_asia,ss_europe,ss_newyork
 1,2019.01.02,00:00,1.1463,1.14644,1.14597,1.14622,1170,0,1,0,0,0,0
 2,2019.01.02,01:00,1.14603,1.14678,1.14558,1.14611,2498,1,0,0,0,0,0
 3,2019.01.02,02:00,1.14612,1.14626,1.14544,1.14561,2015,0,1,0,1,0,0

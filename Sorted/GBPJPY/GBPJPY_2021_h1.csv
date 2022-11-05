@@ -1,4 +1,4 @@
-0,date,time,open,p_high,p_low,p_close,volume,st_bullish,st_bearish,st_neutral,ss_asia,ss_europe,ss_newyork
+0,date,time,p_open,p_high,p_low,p_close,volume,st_bullish,st_bearish,st_neutral,ss_asia,ss_europe,ss_newyork
 1,2021.01.04,00:00,140.685,141.061,140.664,140.94,737,1,0,0,0,0,0
 2,2021.01.04,01:00,140.958,141.315,140.954,141.245,5585,1,0,0,0,0,0
 3,2021.01.04,02:00,141.251,141.278,140.78,140.913,11294,0,1,0,1,0,0
